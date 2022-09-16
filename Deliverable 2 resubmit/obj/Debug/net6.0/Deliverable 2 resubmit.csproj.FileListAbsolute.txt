@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\bin\Debug\net6.0\Deliverable 2 resubmit.exe
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\bin\Debug\net6.0\Deliverable 2 resubmit.deps.json
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\bin\Debug\net6.0\Deliverable 2 resubmit.runtimeconfig.json
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\bin\Debug\net6.0\Deliverable 2 resubmit.dll
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\bin\Debug\net6.0\Deliverable 2 resubmit.pdb
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.AssemblyInfo.cs
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.dll
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\refint\Deliverable 2 resubmit.dll
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.pdb
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\Deliverable 2 resubmit.genruntimeconfig.cache
+C:\Users\Owner\Desktop\prework\deliverable2\Deliverable 2 resubmit\Deliverable 2 resubmit\obj\Debug\net6.0\ref\Deliverable 2 resubmit.dll
